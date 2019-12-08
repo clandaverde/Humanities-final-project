@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+body {
+    background-color: #FFA500;
+}
+h3 { 
+    text-align: center;
+    font-size: 30px;
+}
+h4{
+    text-align: center;
+    font-size: 30px
+}
+#pic2 {
+    float: right;
+}
+#pic5 {
+    float: right;
+}
+#pic7 {
+    float: right;
+}
